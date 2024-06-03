@@ -1,6 +1,8 @@
 # MetricsView [![version](https://img.shields.io/badge/version-1.0.0-white.svg)](https://semver.org)
 UI component representing a set of metrics for analyzing the performance of your application.
 
+![Preview](./Resources/Preview.gif)
+
 ## Getting Started
 
 ### Requirements
