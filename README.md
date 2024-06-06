@@ -22,7 +22,7 @@ dependencies: [
 ### Usage
 
 #### With MetricsWindow
-When configured this way, the metric view will always be on top of the other views.
+When configure this way, the metric view will always be on top of the other views.
 1. Go to SceneDelegate/scene(_ scene:, willConnectTo session:, options connectionOptions:)
 2. Create MetricsWindow 
 ```swift 
